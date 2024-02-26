@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Divyansh Dubey Draft</title>
+    <style>
+        
+    </style>
+</head>
+<body><header><nav><pre><b><h2>Home                    Climate                      Change                      Notes                         Reference</h2></b></pre></nav></header>
+    <button>Click Here</button>
+<img src=  height="800px" width="1500px">    
+<audio></audio>
+<aside>
+    This the new website for my new project and the work is still on progress
+</aside>
+<address>Divyansh Dubey<br>7780877922 <br> captainthelegend2004@gmail.com</address>
+
+</body>
+</html>

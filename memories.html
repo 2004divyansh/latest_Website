@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Memories</title>
+  <Style>
+/* CSS code */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* two columns of equal width */
+  grid-template-rows: repeat(2, 1fr); /* two rows of equal height */
+  grid-gap: 10px; /* 10 pixels of space between images */
+}
+
+.gallery img {
+  width: 100%; /* fill the grid cell */
+  height: 100%;
+  object-fit: cover; /* crop the image to fit the cell */
+}
+
+  </Style>
+</head>
+<body>
+ 
+<div class="gallery">
+  <img src="20240217_193254.jpg">
+  <img src="IMG_0067.jpg">
+  <img src="IMG_0142.jpg">
+</div>
+
+</body>
+</html>
